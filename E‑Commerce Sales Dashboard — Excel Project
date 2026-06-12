@@ -1,0 +1,35 @@
+E‑Commerce Sales Dashboard — Excel Project
+An interactive Excel dashboard designed to analyze key e‑commerce performance metrics, identify sales trends, and support data‑driven decision‑making. This project demonstrates advanced Excel skills including Power Query, PivotTables, data modeling, dynamic formulas, and dashboard design.
+
+Project Overview:
+This project explores an e‑commerce dataset containing order details, customer information, product categories, and regional performance. The dashboard provides a consolidated view of business performance through automated KPIs and interactive visualizations.
+
+The dashboard includes:
+
+Total Sales, Profit, and Quantity Sold
+
+Top‑performing product categories
+
+Sales by region, segment, and customer type
+
+Monthly and yearly sales trends
+
+Order status breakdown
+
+Profitability analysis by category and sub‑category
+
+Tools & Techniques Used
+
+Excel
+
+Power Query for data cleaning and transformation
+
+PivotTables & PivotCharts for aggregation and analysis
+
+Slicers & Timelines for interactivity
+
+Dynamic formulas (XLOOKUP, SUMIFS, FILTER, etc.)
+
+Conditional formatting for visual insights
+
+Dashboard layout design for clear storytelling
